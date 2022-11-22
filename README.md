@@ -1,0 +1,2 @@
+# VoodooAdnSpecsBeta
+Cocoapods BETA test
