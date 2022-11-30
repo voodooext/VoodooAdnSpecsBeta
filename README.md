@@ -1,2 +1,2 @@
 # VoodooAdnSpecsBeta
-Cocoapods BETA test
+Cocoapods specs for BETA test versions
